@@ -1,0 +1,33 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+header {
+    background-color: #2380dc;
+    color: #34587e;
+    padding: 20px 0;
+    background-image: url('pexels-bella-white-201200-635279.jpg');
+    background-size: cover; 
+}
+header .navbar-brand {
+    font-size: 24px;
+}
+
+section {
+    margin-top: 30px;
+    background-image: url('city-7359471_640.jpg');
+    background-size: cover; 
+}
+
+footer {
+    background-color: #2380dc;
+    color: #34587e;
+    text-align: center;
+    padding: 20px 0;
+}
+
+/* Custom Button Style */
+button {
+    font-size: 16px;
+}
